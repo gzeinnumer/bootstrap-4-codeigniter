@@ -74,7 +74,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		<p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
 
 		<p>Silahkan akses link berikut untuk melihat hasil</p>
-		<code>localhost/bootstrap-4-codeigniter/template</code>
+		<code>http://localhost:8080/bootstrap-4-codeigniter/index.php/WithTemplate</code>
 
 	</div>
 

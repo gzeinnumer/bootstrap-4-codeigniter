@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/bootstrap-4-codeigniter/';
+$config['base_url'] = 'http://localhost:8080/bootstrap-4-codeigniter/';
 
 /*
 |--------------------------------------------------------------------------
